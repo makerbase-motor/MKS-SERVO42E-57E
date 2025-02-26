@@ -20,8 +20,8 @@ MKS SERVO42E/57E_RS485/CAN closed-loop stepper motor is a product independently 
 16. Support left and right limit functions.
 17. Onboard industrial-grade high-precision magnetic encoder;
 18. Onboard high-power MOSFET, 100V/25A;
-19. Onboard CAN interface, 2048 slave addresses, support broadcast address and group address;
-    or Onboard RS-485 interface, 256 slave addresses, support broadcast address and group address;
+19. Onboard RS-485 interface, 256 slave addresses, support broadcast address and group address;
+or Onboard CAN interface, 2048 slave addresses, support broadcast address and group address;  
 20. Industrial-grade selection design, stable and reliable;
 21. Working voltage 20V~60V;
 
